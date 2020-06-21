@@ -11,7 +11,8 @@ Idea is to create a weekly plan:
 - House and other non-PD projects for the week
 <br>
 And then to track:
-- Exercise (pulled from my Fitbit app)
+<ul>
+  <li>Exercise (pulled from my Fitbit app)</li>
 - Food consumed (ditto)
 - Weight (ditto)
 - PD achievements
