@@ -9,6 +9,7 @@ Idea is to create a weekly plan:
 - With some idea of expected calorie consumption
 - Specific personal development objectives (learning objectives)
 - House and other non-PD projects for the week
+<br>
 And then to track:
 - Exercise (pulled from my Fitbit app)
 - Food consumed (ditto)
