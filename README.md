@@ -10,13 +10,5 @@ Idea is to create a weekly plan:
 - Specific personal development objectives (learning objectives)
 - House and other non-PD projects for the week
 <br>
-And then to track:
-<ul>
-  <li>Exercise (pulled from my Fitbit app)</li>
-- Food consumed (ditto)
-- Weight (ditto)
-- PD achievements
-- Other project achievements
-
 There are almost certainly apps on the market (Fitbit, even) that do some of this. 
 However this project is in itself part of my PD: learning html, css and python
